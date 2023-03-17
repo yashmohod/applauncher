@@ -14,7 +14,6 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import winreg
 import PyInstaller.__main__
 import os, shutil, winshell,win32com.client
-import subprocess
 
 
 def foo(hive, flag):
